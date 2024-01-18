@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+/workspaces/machine-learning-python-reyna/data/raw/total_data.csv
+data/processed/clean_train.csv
+data/processed/clean_train.csv
+
